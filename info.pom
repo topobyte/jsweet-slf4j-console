@@ -2,5 +2,5 @@
 <project>
   <name>JSweet SLF4J Console implementation</name>
   <description>A SLF4J backend for JSweet that outputs to the Console object</description>
-  <url>https://github.com/topobyte/jsweet-slfj4-console</url>
+  <url>https://github.com/topobyte/jsweet-slf4j-console</url>
 </project>
