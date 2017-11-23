@@ -21,6 +21,8 @@ repositories {
 }
 
 dependencies {
+    compile 'de.topobyte:slf4j-transpilable-base:0.0.1'
+    compile 'de.topobyte:slf4j-transpilable-formatting:0.0.1'
     compile 'org.jsweet:jsweet-core:5-20170726'
 }
 
